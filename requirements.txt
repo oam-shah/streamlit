@@ -1,7 +1,7 @@
 alabaster==0.7.12
 altair==4.2.2
 anaconda-client
-anaconda-navigator==1.9.7
+anaconda-navigator
 anaconda-project @ git+https://github.com/Anaconda-Platform/anaconda-project@6bc61a599c7e3a6bade891cbc1553a161d880ee9
 antiorm==1.2.1
 args==0.1.0
