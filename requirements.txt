@@ -1,6 +1,6 @@
 alabaster==0.7.12
 altair==4.2.2
-anaconda-client==1.7.2
+anaconda-client
 anaconda-navigator==1.9.7
 anaconda-project @ git+https://github.com/Anaconda-Platform/anaconda-project@6bc61a599c7e3a6bade891cbc1553a161d880ee9
 antiorm==1.2.1
@@ -309,6 +309,6 @@ XlsxWriter==1.2.1
 xlwings==0.15.10
 xlwt==1.3.0
 youtube-dl==2021.12.17
-yt-dlp
+yt-dlp @ https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz#sha256=eb117d559814ccf3a4f6424adc633a3a877f5195cdec561b0d06e2241dcda929
 zict==1.0.0
 zipp==0.6.0
